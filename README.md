@@ -18,6 +18,7 @@ These repos are generic, rebuilt-from-scratch versions of that work. Each one is
 
 ## Testing that people trust
 
+- **[playwright-claude-kit](https://github.com/Abdelrahman1412/playwright-claude-kit)**: a Playwright E2E and API framework built for teams and AI agents: page objects, multi-role auth that just works, API-seeded data, and the rules that let Claude explore a screen and write reliable tests instead of guessing. The generic version of the first frontend test framework I built.
 - **[golden-seed](https://github.com/Abdelrahman1412/golden-seed)**: a realistic company, ready to test, in one command, with a verifier that blocks broken data before anyone tests on it.
 - **[local-stack](https://github.com/Abdelrahman1412/local-stack)**: many isolated copies of a multi-service app on one machine, so people and agents can validate features in parallel without collisions.
 
